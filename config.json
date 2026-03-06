@@ -3,10 +3,11 @@
  "port": 8080,
  "protocol": "vless",
  "settings": {
- "clients": [{"id": "d2cb8181-233c-4d18-9972-8a1b04db0044"}],
+ "clients": [{"id": "9fc7b6ae-c9f8-465f-b178-22095fa9e724"}],
  "decryption": "none"
  },
  "streamSettings": {"network": "ws", "wsSettings": {"path": "/personalizado"}}
  }],
  "outbounds": [{"protocol": "freedom"}]
+
 }
